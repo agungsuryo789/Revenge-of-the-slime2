@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1562591350
+#1562763774
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -100,6 +100,10 @@ images/titlebg-sheet29.png
 images/sprite11-sheet0.png
 images/spritegroundlv2-sheet0.png
 images/tilemap3.png
+images/sky-sheet0.png
+images/clouds-sheet0.png
+images/sea-sheet0.png
+images/fargrounds-sheet0.png
 media/coin.m4a
 media/coin.ogg
 media/die.m4a
@@ -137,9 +141,11 @@ media/hollow%20knight%20ost%20-%20hornet.ogg
 media/undertale%20-%20megalovania.ogg
 media/undertale%20mettaton%20ex%20theme%20%20death%20by%20glamour.ogg
 media/undertale%20ost%20%20005%20-%20ruins.ogg
-media/undertale%20ost%20%20006%20-%20uwa!!%20so%20temperate♫.ogg
+media/undertale%20ost%20%20006%20-%20uwa!!%20so%20temperate.ogg
 media/undertale%20ost%20%20012%20-%20home.ogg
 media/undertale%20ost%20%20009%20-%20enemy%20approaching.ogg
+media/final%20fantasy%20brave%20exvius%20ost%20-%20victory's%20fanfare.ogg
+media/stranger%20things%20¦%20title%20sequence%20[hd]%20¦%20netflix.ogg
 icon-16.png
 icon-32.png
 icon-114.png
