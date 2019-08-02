@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1562763774,
+	"version": 1564766455,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -105,6 +105,9 @@
 		"images/clouds-sheet0.png",
 		"images/sea-sheet0.png",
 		"images/fargrounds-sheet0.png",
+		"images/1lbwws-sheet0.png",
+		"images/nnqxn-sheet0.png",
+		"images/environmentpreview2-sheet0.png",
 		"media/coin.m4a",
 		"media/coin.ogg",
 		"media/die.m4a",
